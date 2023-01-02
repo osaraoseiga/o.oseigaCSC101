@@ -1,0 +1,4 @@
+The file belongs to Aigbona Juliet
+With a qualification of B.Sc.
+They are in Consulting department
+Their job descriptions are ["Analytics consulting services", "Customer experience", "Cyber security strategy, risk, complaince and resilience", "Digital transformation", "Risk consulting services", "Supply chain and operations", "Technology transformation"]
